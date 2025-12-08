@@ -1,4 +1,4 @@
-#Project Summary
+# Project Summary
 
 I designed and implemented an end-to-end Business Intelligence solution to analyze customer complaints extracted from the company’s Customer Management System (CMS). The project involved transforming raw complaint data into a structured and interactive analytical dashboard using Power BI. The system tracked complaint identifiers, customer contract numbers, service order numbers, complaint types, statuses, financial rectifications, creation and last update timestamps, and agency and divisional performance.
 
@@ -7,7 +7,7 @@ The objective of the project was to reduce complaint resolution time, improve op
 
 ---
 
-##Business Problem
+Business Problem
 
 The organization experienced increasing customer complaints related to faulty meters, billing disputes, power outages, and equipment failures. Data was exported daily from CMS but remained underutilized because:
 
@@ -26,7 +26,7 @@ Senior management required a single interactive reporting platform that could id
 
 
 
-##Role and Responsibilities
+Role and Responsibilities
 
 I worked as the lead Data Analyst and Power BI Developer on this project. I was fully responsible for design, development, testing, and delivery.
 
@@ -47,7 +47,7 @@ Testing accuracy of calculations and visuals
 
 ---
 
-##Technical Environment
+Technical Environment
 
 Power BI Desktop
 
@@ -62,7 +62,7 @@ Windows Operating System
 
 ---
 
-##System Design & Implementation
+System Design & Implementation
 
 Data Extraction and Cleaning
 
@@ -84,7 +84,7 @@ Removing duplicate complaint IDs
 
 ---
 
-##Data Modelling
+Data Modelling
 
 I designed a star schema data model comprising:
 
@@ -126,7 +126,7 @@ I also handled null and blank values in complaint statuses to ensure data comple
 
 ---
 
-##Dashboard Design
+Dashboard Design
 
 I designed an interactive, user-friendly dashboard that included:
 
@@ -150,7 +150,7 @@ The dashboard was optimized for management review and operational use.
 
 ---
 
-##Testing and Validation
+Testing and Validation
 
 I performed extensive validation by:
 
@@ -187,13 +187,13 @@ Improved management decision-making
 
 ---
 
-##Challenges and Solutions
+Challenges and Solutions
 
 Challenges included inconsistent status labels, missing timestamps, and financial columns stored as text. I resolved these by implementing cleansing rules in Power Query, building validation logic, and introducing error-handling mechanisms in DAX.
 
 
 ---
 
-##Conclusion
+Conclusion
 
 This project strengthened organizational control over customer complaint management. I successfully delivered a scalable, automated analytics solution that converted operational CMS data into actionable business insights, significantly improving response times and operational efficiency.
