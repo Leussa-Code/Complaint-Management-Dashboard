@@ -190,7 +190,6 @@ Improved management decision-making
 ## Challenges and Solutions
 
 Challenges included inconsistent status labels, missing timestamps, and financial columns stored as text. I resolved these by implementing cleansing rules in Power Query, building validation logic, and introducing error-handling mechanisms in DAX.
-![Uploading Complaint Management dashboard.png…]()
 
 
 ---
